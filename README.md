@@ -18,7 +18,7 @@ Meetup 13-11-02
  Meetup 13-07-20
 ======
  * [](): **Martin Natano**, on 'the Python universe'.
- * [](): **Laura Gaetano**, making stuff pretty with CSS.
+ * [What we talk about when we talk about CSS](https://speakerdeck.com/alicetragedy/what-we-talk-about-when-we-talk-about-css): **Laura Gaetano**, making stuff pretty with CSS.
  * [](): **Stefan Koegl**, introducing PYUGAT; the Viennese Python User Group.
  * [](): **Andreas Tiefenthaler & Floor Drees**, making stuff look cooler by using a terminal (and understanding what you're doing there).
  * [](): **Florian Dorfbauer**, how does it all work behind the scenes?
