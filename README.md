@@ -7,7 +7,7 @@ Meetup 13-12-07
 ======
  * [What I learned learning programming](): **Kathrin Folkendt** 
  * [The story behind Rails Girls Summer of code](): **Anika Lindtner**, working on open source for a summer.
- * [Warholify ALL the pictures](): **Dražen - Kermit666 - Lučanin**, how choosing a pet project you care about helps you learn.
+ * [Warholify ALL the pictures](http://epska.org/dev/talks/dev.warhol.slides.html): **Dražen - Kermit666 - Lučanin**, how choosing a pet project you care about helps you learn. Original [IPython notebook](http://nbviewer.ipython.org/gist/kermit666/7845732) (from which the slides were generated).
  
 Meetup 13-11-02
 ======
