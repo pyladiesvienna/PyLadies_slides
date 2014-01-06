@@ -3,6 +3,11 @@ Slides for PyLadies Vienna
 
 Collection of held presentations
 
+Meetup 14-01-18
+======
+
+coming soon!
+
 Meetup 13-12-07
 ======
  * [What I learned learning programming](): **Kathrin Folkendt** 
